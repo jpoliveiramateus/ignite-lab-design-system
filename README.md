@@ -11,6 +11,8 @@ Na segunda aula iremos exportar os tokens e componentes do Figma para o código 
 ## Aula 3 - Testando e automatizando
 Na última aula aprenderemos a como criar testes automatizados para nosso Design System e simular interações do usuário. Além disso, vamos automatizar o processo de deploy do Design System.
 
+### Figma: https://www.figma.com/file/9W6eHZTBq99UZnDpLoeLJF/Ignite-Lab-Design-System?node-id=0%3A1
+
 ## TECNOLOGIAS E FERRAMENTAS UTILIZADAS
 
 - React;
